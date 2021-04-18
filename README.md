@@ -1,5 +1,6 @@
 # Amazon_Vine_Analysis
-## Overview of the analysis: Explain the purpose of this analysis. 
+## Overview of the analysis: Explain the purpose of this analysis.
+
 	  The purpose of the analysis is to write a report that summarizes the analysis performed in Deliverable 2.
   
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
